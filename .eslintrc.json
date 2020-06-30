@@ -1,0 +1,12 @@
+{
+	"extends": [ "plugin:@wordpress/eslint-plugin/recommended" ],
+    "rules": {
+        "no-var": "error",
+        "comma-dangle": ["error", "always-multiline"],
+        "no-console": "off",
+        "require-jsdoc": "off",
+        "valid-jsdoc": "off",
+        "camelcase": ["warn", { "properties": "never" }],
+        "react/jsx-uses-vars": 1
+    }
+}

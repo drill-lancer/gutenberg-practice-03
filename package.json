@@ -1,0 +1,22 @@
+{
+  "name": "gutenberg-practice-03",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drill-lancer/gutenberg-practice-03.git"
+  },
+  "author": "DRILL LANCER",
+  "license": "GPL-2.0-only",
+  "bugs": {
+    "url": "https://github.com/drill-lancer/gutenberg-practice-03/issues"
+  },
+  "homepage": "https://github.com/drill-lancer/gutenberg-practice-03#readme",
+  "dependencies": {
+    "@wordpress/scripts": "^12.0.0"
+  }
+}
